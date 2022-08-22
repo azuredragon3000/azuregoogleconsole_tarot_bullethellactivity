@@ -1,0 +1,1 @@
+# googleconsole_tarot_bullethellactivity
