@@ -1,7 +1,17 @@
+Screenshot_20220722_135328.png  
+<img src="https://github.com/azuredragon3000/googleconsole_tarot_bullethellactivity/blob/master/Screenshot_20220722_135328.png" />   
+Screenshot_20220722_135340.png  
+<img src="https://github.com/azuredragon3000/googleconsole_tarot_bullethellactivity/blob/master/Screenshot_20220722_135340.png" />   
+Screenshot_20220722_135348.png  
+<img src="https://github.com/azuredragon3000/googleconsole_tarot_bullethellactivity/blob/master/Screenshot_20220722_135348.png" />   
+app/src/main/res/drawable-v24  
+<img src="https://github.com/azuredragon3000/googleconsole_tarot_bullethellactivity/blob/master/app/src/main/res/drawable-v24" />   
 app/src/main/res/drawable-v24/custom_background.xml  
 <img src="https://github.com/azuredragon3000/googleconsole_tarot_bullethellactivity/blob/master/app/src/main/res/drawable-v24/custom_background.xml" />   
 app/src/main/res/drawable-v24/ic_launcher_foreground.xml  
 <img src="https://github.com/azuredragon3000/googleconsole_tarot_bullethellactivity/blob/master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />   
+app/src/main/res/drawable  
+<img src="https://github.com/azuredragon3000/googleconsole_tarot_bullethellactivity/blob/master/app/src/main/res/drawable" />   
 app/src/main/res/drawable/ic_launcher_background.xml  
 <img src="https://github.com/azuredragon3000/googleconsole_tarot_bullethellactivity/blob/master/app/src/main/res/drawable/ic_launcher_background.xml" />   
 app/src/main/res/drawable/tarot.png  
